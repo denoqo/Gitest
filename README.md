@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NOJAH
 NOt Just Another Heatmap
 
@@ -91,3 +92,6 @@ Use of either should properly acknowledge the Winship BBISR in publications, abs
 Authors- Manali Rupji, dual M.S., Bhakti Dwivedi Ph.D. & Jeanne Kowalski Ph.D.
 
 Maintainer- Manali Rupji 'manali(dot)rupji(at)emory(dot)edu'
+=======
+# NOJAH2
+>>>>>>> 03500d16f2df37c3c120c67b34f95ef5fac1055e
